@@ -11,6 +11,7 @@ public class CartPage extends SmokeTest{
 		
 		super("Cart Page","Constructor");
 		System.out.println("hjgjh");
+		System.out.println("hjgjh");
 	}
 
 }
